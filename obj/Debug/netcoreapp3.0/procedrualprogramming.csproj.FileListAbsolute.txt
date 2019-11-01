@@ -1,0 +1,11 @@
+C:\csharp\ar\procedrualprogramming\bin\Debug\netcoreapp3.0\procedrualprogramming.exe
+C:\csharp\ar\procedrualprogramming\bin\Debug\netcoreapp3.0\procedrualprogramming.deps.json
+C:\csharp\ar\procedrualprogramming\bin\Debug\netcoreapp3.0\procedrualprogramming.runtimeconfig.json
+C:\csharp\ar\procedrualprogramming\bin\Debug\netcoreapp3.0\procedrualprogramming.runtimeconfig.dev.json
+C:\csharp\ar\procedrualprogramming\bin\Debug\netcoreapp3.0\procedrualprogramming.dll
+C:\csharp\ar\procedrualprogramming\bin\Debug\netcoreapp3.0\procedrualprogramming.pdb
+C:\csharp\ar\procedrualprogramming\obj\Debug\netcoreapp3.0\procedrualprogramming.csprojAssemblyReference.cache
+C:\csharp\ar\procedrualprogramming\obj\Debug\netcoreapp3.0\procedrualprogramming.AssemblyInfoInputs.cache
+C:\csharp\ar\procedrualprogramming\obj\Debug\netcoreapp3.0\procedrualprogramming.AssemblyInfo.cs
+C:\csharp\ar\procedrualprogramming\obj\Debug\netcoreapp3.0\procedrualprogramming.dll
+C:\csharp\ar\procedrualprogramming\obj\Debug\netcoreapp3.0\procedrualprogramming.pdb
